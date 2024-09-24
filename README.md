@@ -4,6 +4,9 @@ My name is Patrik Alm and I have recently started to study programming, again. L
 
 First time programming was with a VIC 20 and the language BASIC, some time ago... 😄
 
+And if you want a nice smile or something else check out Rafael's extended and fabolous list of emojies! 
+[Here is the list](https://gist.github.com/rxaviers/7360908)
+
 [![Patrik-Alm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-Alm&show_icons=true&theme=merko)](https://github.com/Patrik-Alm/github-readme-stats)
 
 
