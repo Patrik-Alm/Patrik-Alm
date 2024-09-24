@@ -4,6 +4,8 @@ My name is Patrik Alm and I have recently started to study programming, again. L
 
 First time programming was with a VIC 20 and the language BASIC, some time ago... 😄
 
+[![Patrik-Alm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrik-Alm)](https://github.com/Patrik-Alm/github-readme-stats)
+
 
 <!--
 **Patrik-Alm/Patrik-Alm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
