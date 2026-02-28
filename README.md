@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Patrik Alm and I have recently started to study programming, again. Last time was at Växjö university with ADA and this time at Lexicon in Växjö with the goal to be a fullstack developer with Java, HTML, CSS, Javascript and React.
+My name is Patrik Alm and I have recently started my way to thrive within the IT world. First time was at Växjö university with ADA and years later I started again at Lexicon in Växjö with the goal to be a fullstack developer with Java, HTML, CSS, Javascript and React. Now I am trying to continue to evolve and find the right opportunity to do so.
 
 First time programming was with a VIC 20 and the language BASIC, some time ago... 😄
 
